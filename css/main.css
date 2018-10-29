@@ -2,6 +2,20 @@ body {
     margin: 60px auto;
     width: 70%;
 }
+.container .blurb{
+  height : 400px;
+}
+
+.container .blurb .homepage_text{
+  float: left;
+  width: 80%;
+}
+
+.container .blurb .homepage_image{
+  float: left;
+  width: 20%;
+}
+
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
@@ -33,6 +47,7 @@ footer {
     font-size: .8em;
 }
 
+
 ul.posts { 
     margin: 20px auto 40px; 
     font-size: 1.5em;
@@ -40,4 +55,54 @@ ul.posts {
 
 ul.posts li {
     list-style: none;
+}
+
+/* Share buttons */
+.sharebuttons {
+  margin: 0 auto 0 auto;
+  bottom: 0;
+  width: 100%;
+}
+
+.sharebuttons ul {
+  margin: 0 0 0 0;
+  text-align: center;
+}
+
+.sharebuttons ul li {
+  display: inline;
+}
+
+.sharebuttons ul li a {
+  text-decoration: none;  
+  font-size: 1.4em;
+  color: #333;
+  vertical-align: middle;
+}
+
+.sharebuttons ul li svg {
+  width: 40px;
+  height: 40px;
+}
+
+.sharebuttons .twitter svg {
+  fill: #1DA1F2;
+  vertical-align: middle;
+}
+
+.sharebuttons ul li .vl {
+    border-left: 1px solid black;
+    height: 40px;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+.sharebuttons .linkedin svg {
+  fill: #0077B5;
+  vertical-align: middle;
+}
+
+.sharebuttons .gmail svg {
+  fill: #D14836;
+  vertical-align: middle;
 }
