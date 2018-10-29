@@ -1,4 +1,5 @@
 name: Yash Sanghvi
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
-root: /octo-5
+baseurl: /
+url: http://sanghviyashiitb.github.io
