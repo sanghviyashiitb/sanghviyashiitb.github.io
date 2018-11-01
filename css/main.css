@@ -27,13 +27,21 @@ body {
 }
 
 .container .project_image img{
-  max-width: 300px;
+  max-width: 250px;
 }
 
-.container hr 
+.container .project_image p{
+  font-size: 1em;
+}
+
+.container .divider  
 {
-  margin-top: 15px;
-  margin-bottom: 15px;
+  padding-bottom : 10px;
+  padding-top : 10px;
+}
+
+.container .divider hr 
+{
   width : 100%;
   border: 1px solid #ccc;
 }
