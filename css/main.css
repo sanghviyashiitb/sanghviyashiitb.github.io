@@ -12,12 +12,13 @@ body {
   border-radius: 1.5em;
   padding: 5px 10px;
   float: left;
-  width: 60%;
+  width: 50%;
+  margin: 10px auto;
 }
 
 .container .homepage_image{
   float: left;
-  width: 30%;
+  width: 40%;
   padding-top: 50px;  
   padding-left: 80px;
 }
@@ -26,29 +27,43 @@ body {
   max-width: 200px;
 }
 
-.container .project_image img{
-  max-width: 250px;
+.container .section .bottom_border{
+  padding-bottom: 10px;
+  float: left;
+  border-bottom: 1px #ccc solid;
+  margin: auto 20px;
+  width: 100%;
+}
+.container .section .project_text{
+  border: 2px #ccc solid;
+  border-radius: 1.5em;
+  padding: 5px 10px;
+  float: left;
+  width: 65%;
+  margin: 10px 5px;
+}
+.container .section .project_image{
+  border-radius: 1.5em;
+  border: 2px #ccc solid;
+  padding: 5px 10px;
+  float: left;
+  width: 20%;
+  margin: 10px 10px;
+}
+.container .section .project_image img{
+  padding-top: 10px;
+  max-width: 90%;
 }
 
-.container .project_image p{
+.container .section .project_image p{
   font-size: 1em;
 }
 
-.container .project_image iframe{
-  height:200px;
-  max-width: 250px;
-}
-.container .divider  
-{
-  padding-bottom : 10px;
-  padding-top : 10px;
+.container .section .project_image iframe{
+  max-width: 90%;
 }
 
-.container .divider hr 
-{
-  width : 100%;
-  border: 1px solid #ccc;
-}
+
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
