@@ -34,6 +34,10 @@ body {
   font-size: 1em;
 }
 
+.container .project_image iframe{
+  height:200px;
+  max-width: 250px;
+}
 .container .divider  
 {
   padding-bottom : 10px;
