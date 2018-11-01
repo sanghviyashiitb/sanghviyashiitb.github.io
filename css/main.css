@@ -1,21 +1,42 @@
 body {
-    margin: 60px auto;
-    width: 60%;
+    margin: auto auto;
+    width: 70%;
 }
-.container .blurb{
-  height : 300px;
+.container {
+  width: 100%;
+  position: relative;
 }
 
-.container .blurb .homepage_text{
+.container .homepage_text{
+  border: 1px #ccc solid;
+  border-radius: 1.5em;
+  padding: 5px 10px;
   float: left;
-  width: 85%;
+  width: 60%;
 }
 
-.container .blurb .homepage_image{
+.container .homepage_image{
   float: left;
-  width: 15%;
+  width: 30%;
+  padding-top: 50px;  
+  padding-left: 80px;
 }
 
+.container .homepage_image img{
+  max-width: 200px;
+}
+
+.container .project_image img{
+  max-width: 300px;
+}
+
+.container hr 
+{
+  margin-top: 15px;
+  margin-bottom: 15px;
+  width : 100%;
+  border: 1px solid #ccc;
+}
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
@@ -39,7 +60,7 @@ h1 {
 }
 p {
     font-size: 1.2em;
-    line-height: 1.3em;
+    line-height: 1.5em;
     color: #333;
 }
 footer {
@@ -59,16 +80,23 @@ ul.posts li {
 
 /* Share buttons */
 .sharebuttons {
-  margin: 0 auto 0 auto;
+  position: fixed;
+  margin: auto;
+  width: 80%;
   bottom: 0;
-  width: 100%;
+  background-color: white;
+
 }
 
 .sharebuttons ul {
   margin: 0 0 0 0;
   text-align: center;
+  background-color: white;
 }
 
+.sharebuttons ul a{
+  font: black;
+}
 .sharebuttons ul li {
   display: inline;
 }
@@ -76,33 +104,38 @@ ul.posts li {
 .sharebuttons ul li a {
   text-decoration: none;  
   font-size: 1.2em;
-  color: #333;
-  vertical-align: middle;
+  height: 1.2em;
+  font: black;
 }
 
 .sharebuttons ul li svg {
-  width: 30px;
-  height: 30px;
+  width: 40px;
+  height: 40px;
+  margin-bottom: 10px;
+  background-color: white;
 }
 
 .sharebuttons .twitter svg {
   fill: #1DA1F2;
   vertical-align: middle;
 }
-
-.sharebuttons ul li .vl {
-    border-left: 1px solid black;
-    height: 40px;
-    margin-right: 10px;
-    margin-left: 10px;
+.sharebuttons .twitter a {
+  padding: 5px;
 }
 
 .sharebuttons .linkedin svg {
   fill: #0077B5;
   vertical-align: middle;
 }
+.sharebuttons .linkedin a {
+  padding: 5px;
+  font: black;
+}
 
 .sharebuttons .gmail svg {
   fill: #D14836;
   vertical-align: middle;
+}
+.sharebuttons .gmail a {
+  padding: 5px;
 }
