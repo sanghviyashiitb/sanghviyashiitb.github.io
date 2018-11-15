@@ -30,25 +30,23 @@ body {
   max-width: 200px;
 }
 
-.container .section .project_text{
-  border: 2px #ccc solid;
-  border-radius: 1.5em;
+.container .section{
   padding: 10px 10px;
+  margin: 20px 20px;
+  float: left;
+  width: 100%;
+}
+.container .section .project_text{
   float: left;
   width: 50%;
-  margin: 10px 5px;
 }
 .container .section .project_image{
-  border-radius: 1.5em;
-  border: 2px #ccc solid;
   padding: 10px 10px;
   float: left;
   width: 35%;
-  margin: 10px 10px;
 }
 .container .section .project_image img{
-  padding-top: 10px;
-  max-width: 90%;
+  max-width: 70%;
 }
 
 .container .section .project_image p{
@@ -57,7 +55,7 @@ body {
 
 .container .section .project_image iframe{
   padding-top: 10px;
-  max-width: 90%;
+  max-width: 70%;
   height: 250px;
 }
 
@@ -76,6 +74,8 @@ a {
     text-decoration: none;
     color: black;
 }
+
+
 
 .link {
     text-decoration: none;
