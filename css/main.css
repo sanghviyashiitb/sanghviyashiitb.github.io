@@ -38,7 +38,7 @@ body {
 }
 .container .section .project_text{
   float: left;
-  width: 50%;
+  width: 60%;
 }
 .container .section .project_image{
   padding: 10px 10px;
@@ -46,7 +46,7 @@ body {
   width: 35%;
 }
 .container .section .project_image img{
-  max-width: 70%;
+  max-width: 80%;
 }
 
 .container .section .project_image p{
@@ -55,7 +55,7 @@ body {
 
 .container .section .project_image iframe{
   padding-top: 10px;
-  max-width: 70%;
+  max-width: 80%;
   height: 250px;
 }
 
