@@ -26,6 +26,15 @@ body {
   margin: 15px 15px;
 }
 
+.container .recent{
+  border-radius: 1.5em;
+  border: 2px #ccc solid;
+  float: left;
+  width: 90%;
+  padding: 10px 10px;
+  margin: 15px 15px;
+}
+
 .container .homepage_image img{
   max-width: 200px;
 }
