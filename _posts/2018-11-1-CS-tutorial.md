@@ -11,7 +11,7 @@ Here are the sources which were used to make the slides:
 * <a class = "link" href = 'https://terrytao.wordpress.com/2007/04/13/compressed-sensing-and-single-pixel-cameras'>Terry Tao's Blog Entry</a>
 * <a class = "link" href = 'http://www.cis.pku.edu.cn/faculty/vision/zlin/A%20Mathematical%20Introduction%20to%20Compressive%20Sensing.pdf'>A Mathematical Introduction to Compressive Sensing</a>: If you enjoy mathematical rigor in general, you might want to look at the first few chapters of the book. Most of the proofs I used were taken from this book.
 * <a class = "link" href = 'https://statweb.stanford.edu/~candes/papers/RIP.pdf'>Restricted Isometry Property and its Implications in Compressed Sensing</a>: This papers contains the proof of the error bound of the L<sub>1</sub> minimization solution based on the RIP property. 
-* If you're still hungry for more, more resources at the <a class = "link" href = 'http://dsp.rice.edu/cs/'>Rice University Repository</a>.
+* If you're still hungry for more resource, find them at the <a class = "link" href = 'http://dsp.rice.edu/cs/'>Rice University Repository</a>.
 <br>
 <center>
 <object data="/Compressive_Sensing_Tutorial_NoPause.pdf" width="640" height="480" type='application/pdf'/>
