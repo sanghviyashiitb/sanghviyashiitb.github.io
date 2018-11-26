@@ -9,7 +9,7 @@
   </head>
 
   <body>
-  <div class="wrapper">
+    <div class="wrapper">
     <div class="topnav" style="font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;">
       <a href="/">Home</a>
       <a href="/projects">Recent Projects</a>
@@ -17,18 +17,16 @@
       <a href="/blog">Blog</a>
     </div>
     <hr />
-    <div  style="width:25%; float:left; padding: 20px 20px;">
-        <img src="/assets/img/homepage_img.png" alt="Logo" width="80%"/>
-        <div style="font: 30px/3 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif; float:left;">
-          <a href="mailto:sanghviyash95@gmail.com"> <img src ="assets/img/gmail.svg" width = "20" style="vertical-align:middle"/>  E-mail</a> <br>
-          <a href="mailto:sanghviyash95@gmail.com"> <img src ="assets/img/linkedin.svg" width = "20" style="vertical-align:middle"/>  LinkedIn</a> <br>
-          <a href="mailto:sanghviyash95@gmail.com"> <img src ="assets/img/twitter.svg" width = "20" style="vertical-align:middle"/>  Twitter</a>
-        </div>
-    </div>
-    <div style="width:65%; float:left">
+
+    <section>
+
     {{ content }}
-    </div>
-  </div>    
+
+    </section>
+    <footer>
+      <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+    </footer>
+  </div>
   <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
   {% if site.google_analytics %}
   <script>
