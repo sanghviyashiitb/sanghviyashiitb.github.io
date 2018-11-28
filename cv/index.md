@@ -13,7 +13,7 @@ Computational Imaging, Inverse Problems, Signal Processing, Compressive Sensing,
 	_Advisor_: Prof. Vikram Gadre
 
 ### Academic Achievements
-* Awarded **Certificate of Appreciation** for commendable performance of T.A. duty in the undergraduate course _Network Theory_, held in Autumn Semester _2017_
+* Awarded **Certificate of Appreciation** for commendable performance of T.A. duty in the undergraduate course _Network Theory_, held in Autumn Semester <i style="float:right">2017</i>
 * Awarded **Undergraduate Research Award [URA-01]** for project titled _'Chirp Signal Parametrization using Particle Swarm Optimization_ <i style="float:right">2015</i>
 * Secured All-India-Rank **256 out of 1.4 million students** in Joint Entrance Examination <i style="float:right">2013</i>
 * Received the **Kishore Vaigyanik Protsahan Yojana (KVPY) fellowship**, instituted by the Department of Science and Technology, Government of India <i style="float:right">2012</i>
