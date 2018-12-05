@@ -42,7 +42,7 @@ Computational Imaging, Inverse Problems, Signal Processing, Compressive Sensing,
 ### Teaching
 * **Introduction to Machine Learning** | Teaching Assistant  <br>
 	Instructor: Prof. Amit Sethi <i style="float:right">Jan.’18 – Apr.’18</i><br>
-		- Evaluated assignments, mid-semester and end-semester answer scripts of 120+ students
+	- Evaluated assignments, mid-semester and end-semester answer scripts of 120+ students
 * **Network Theory** | Teaching Assistant <br> 
 	Instructor: Prof. V.M. Gadre <i style="float:right">Jun.’17 – Nov.’17</i><br>
 	- Regularly reviewed tutorial solutions posted online; evaluated answer scripts and assignments <br>
