@@ -19,8 +19,7 @@ Computational Imaging, Inverse Problems, Signal Processing, Compressive Sensing,
 * Received the **Kishore Vaigyanik Protsahan Yojana (KVPY) fellowship**, instituted by the Department of Science and Technology, Government of India <i style="float:right">2012</i>
 
 ### Publications
-* Yash Sanghvi, Yaswanth Kalepu, Hrishitosh Bisht, Vikram Gadre, and Uday Khankhoje, _"Inverse Scattering via Constrained Optimization"_, under review, IEEE Transactions on Computational Imaging
-* Yash Sanghvi, Yaswanth Kalepu, and Uday Khankhoje, _"Embedding Deep Learning in Inverse Scattering Problems"_, under review, IEEE Transactions on Computational Imaging
+* Yash Sanghvi, Yaswanth Kalepu, and Uday Khankhoje, ["Embedding Deep Learning in Inverse Scattering Problems"](https://ieeexplore.ieee.org/document/8709721), accepted at _IEEE Transactions on Computational Imaging_
 
 ### Selected Research Experience
 * **Imaging Strong Scatterers in Inverse Scattering** | Project Scientist <i style="float:right"> Sep.'18 – Present</i><br> 

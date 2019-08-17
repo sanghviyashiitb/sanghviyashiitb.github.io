@@ -11,7 +11,8 @@ You can find .pdf version of my CV [here](/PhD_Curriculum_Vitae.pdf).
 
 
 ### Recent Stuff
-* 27 Nov: _"Embedding Deep Learning in Inverse Scattering Problems"_ submitted to IEEE Transactions on Computational Imaging
+* 20 Jul: From August 2019, I'll be starting my PhD at the **Purdue University's School of Electrical and Computer Engineering**
+* 14 Jul: The Hindu wrote an [article](https://t.co/iEGZZLWJ4b) about our lab's work on inverse scattering and deep learning
+* 30 Apr: _"Embedding Deep Learning in Inverse Scattering Problems"_ accepted to IEEE Transactions on Computational Imaging [(link)](https://ieeexplore.ieee.org/document/8709721).
 * 01 Nov: Tutorial on Compressive Sensing presented as part of EE5120 posted [here](/blog/2018-11-1-CS-tutorial).
-* 15 Oct: _"Embedding Deep Learning in Inverse Scattering Solutions"_ submitted to [APRSC 2019](http://aprasc2019.com/) (Extended Abstract).
-* 13 Sep: _"Inverse Scattering via Constrained Optimization"_ submitted to IEEE Transactions on Computational Imaging. 
+
