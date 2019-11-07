@@ -11,7 +11,7 @@ You can find .pdf version of my CV [here](/Sanghvi_CV.pdf).
 
 
 ### Recent Stuff
-* 31 Sep: _"Reconstructing dispersive scatterers with minimal freqeuncy data"_ submitted
+* 31 Sep: _"Reconstructing dispersive scatterers with minimal freqeuncy data"_ submitted to Geoscience and Remote Sensing Letters
 * 14 Jul: The Hindu wrote an [article](https://t.co/iEGZZLWJ4b) about our lab! 
 * 30 Apr: _"Embedding Deep Learning in Inverse Scattering Problems"_ accepted to IEEE Transactions on Computational Imaging [(link)](https://ieeexplore.ieee.org/document/8709721).
 * 01 Nov: Tutorial on Compressive Sensing presented as part of EE5120 posted [here](/blog/2018-11-1-CS-tutorial).
