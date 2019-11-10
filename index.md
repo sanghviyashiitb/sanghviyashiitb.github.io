@@ -2,7 +2,8 @@
 layout: default
 title: Yash Sanghvi
 ---
-### Hi there, I'm Yash Sanghvi!
+## Hi there, I'm Yash Sanghvi!
+### Personal Webpage - Less than Frequently Updated
 I'm currently a graduate research assistant at the [SSIP Lab](https://engineering.purdue.edu/ChanGroup/) in Department of ECE, Purdue Univeristy. Before this, I was employed as a project scientist for an year at IIT Madras under the guidance of [Prof. Uday K.](http://www.ee.iitm.ac.in/uday/).  I worked on the inverse scattering problem, and hey, I also got [published in the process!](https://ieeexplore.ieee.org/document/8709721)
 
 ### Bio
