@@ -9,7 +9,7 @@ I'm currently a graduate research assistant at the [SSIP Lab](https://engineerin
 ### Bio
 I graduated from IIT Bombay with a dual degree in Electrical Engineering (B. Tech + M. Tech.) in 2018. My research interests include **computational imaging**, **inverse problems**, **signal processing** and intersection of these fields with **compressed sensing** and **machine learning**.
 You can find .pdf version of my CV [here](/Sanghvi_CV.pdf).
-
+I grew up in the wonderful city of Indore, located in the middle of India, which is famous for its [street food](https://www.youtube.com/watch?v=GDr2k9NbrHE) and being the cleanest place in the country. I have a younger sister - also pursuing a degree in Electrical Engineering from my IIT Bombay. 
 
 ### Recent Stuff
 * 31 Jan, 2020: _"Reconstructing dispersive scatterers with minimal freqeuncy data"_ accepted to Geoscience and Remote Sensing Letters! [(link)](https://ieeexplore.ieee.org/document/8976282)
