@@ -8,7 +8,7 @@ I'm currently a graduate research assistant at the I2-Lab in Department of ECE, 
 
 ### Bio
 I graduated from IIT Bombay with a dual degree in Electrical Engineering (B. Tech + M. Tech.) in 2018. My research interests include **computational imaging**, **inverse problems**, **signal processing** and intersection of these fields with **compressed sensing** and **machine learning**.
-You can find .pdf version of my CV [here](/Sanghvi_CV.pdf).
+You can find .pdf version of my CV [here](/CV_YashSanghvi.pdf).
 
 I grew up in the wonderful city of Indore which is famous for its street food and being the cleanest place in the country. I have a younger sister - also an EE graduate from IIT Bombay. 
 
