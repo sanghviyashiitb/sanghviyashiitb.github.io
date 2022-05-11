@@ -17,7 +17,7 @@ title: Publications
 2. Yash Sanghvi, Yaswanth Kalepu, and Uday Khankhoje, **"Embedding Deep Learning in Inverse Scattering Solutions"**, 2019 URSI Asia-Pacific Radio Science Conference (AP-RASC) <br>
 [[slides]](/blog/2019-3-31-URSI)
 
-### Talks
+### Miscellaneous
 1. Machine Learning Reading Group at Purdue University **‘Seeing Into Darkness: Scotopic Visual Recogntition’** <br> 
 [[slides]](SeeingIntoDarkness_MLReadingGroup.pdf)
 
