@@ -4,7 +4,7 @@ title: Publications
 ---
 ### Deconvolution in Photon-Limited Scenes
 1. Yash Sanghvi, Abhiram Gnanasambandam, Stanley H Chan, **"Photon Limited Non-Blind Deblurring Using Algorithm Unrolling"**, _currently under review at Transactions of Computational Imaging_ <br> [[arxiv]](https://arxiv.org/abs/2110.15314) [[code]](https://github.com/sanghviyashiitb/poisson-deblurring)
-2. Yash Sanghvi, Abhiram Gnanasambandam, Stanley H Chan, **"Photon Limited Deblurring Using Algorithm Unrolling"**, _2022 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)_ <br> [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9746543)  [[video]](https://youtu.be/bJHiUKzjaCI) [[slides]](Link_broken)
+2. Yash Sanghvi, Abhiram Gnanasambandam, Stanley H Chan, **"Photon Limited Deblurring Using Algorithm Unrolling"**, _2022 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)_ <br> [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9746543)  [[video]](https://youtu.be/bJHiUKzjaCI) [[slides]](https://drive.google.com/file/d/1jWE6lYoINvlLndliJ6LSxSfdWK8wyxko/view?usp=sharing)
 
 
 ### Inverse Scattering
