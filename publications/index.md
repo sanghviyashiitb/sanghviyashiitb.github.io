@@ -14,7 +14,7 @@ title: Selected Publications
 
 ### Miscellaneous
 1. Machine Learning Reading Group at Purdue University **‘Seeing Into Darkness: Scotopic Visual Recogntition’** <br> 
-[[slides]](SeeingIntoDarkness_MLReadingGroup.pdf)
+[[slides]](https://drive.google.com/file/d/12RELD1rQ8hcPLUqP67mqhSsv1mQg4uAe/view?usp=sharing)
 
 2. **Introduction to Compressive Sensing** - special lecture in EE5120 at IIT Madras <br>
 [[slides]](/blog/2018-11-1-CS-tutorial)
