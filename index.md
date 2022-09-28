@@ -12,7 +12,7 @@ I graduated from IIT Bombay with a dual degree in Electrical Engineering (B. Tec
 I grew up in the wonderful city of Indore which is famous for its street food and being the cleanest place in the country. I have a younger sister - also an EE graduate from IIT Bombay. 
 
 ### Recent Stuff
-* 22 Sep, 2022: _"Photon-Limited Non-Blind Deblurring using Algorithm Unrolling"_ accepted to Transactions on Computational Imaging
+* 22 Sep, 2022: _"Photon-Limited Non-Blind Deblurring using Algorithm Unrolling"_ accepted to Transactions on Computational Imaging - paper available [here](https://ieeexplore.ieee.org/document/9903556).
 * 1 Sep, 2022: **Photon-limited Deblurring Dataset** is now available [here](https://aaaakshat.github.io/pldd/)!!!  
 * 10 Aug, 2022: _"Photon-Limited Blind Deconvolution using Unsupervised Iterative Kernel Estimation
 "_ now up on [arxiv](https://arxiv.org/abs/2208.00451)
