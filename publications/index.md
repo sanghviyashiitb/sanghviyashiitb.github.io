@@ -5,7 +5,9 @@ title: Selected Publications
 ### Deconvolution in Photon-Limited Scenes
 1. Yash Sanghvi, Abhiram Gnanasambandam, Zhiyuan Mao, Stanley H Chan, **"Photon Limited Blind Deconvolution Using Unsupervised Iterative Kernel Estimation"**, IEEE Transactions on Computational Imaging <br> [[link]](https://ieeexplore.ieee.org/document/9982288) [[code]](https://github.com/sanghviyashiitb/photon-limited-blind) [[arxiv]](https://arxiv.org/abs/2208.00451)   
 2. Yash Sanghvi, Abhiram Gnanasambandam, Stanley H Chan, **"Photon Limited Non-Blind Deblurring Using Algorithm Unrolling"**, IEEE Transactions on Computational Imaging <br> 
-[[link]](https://arxiv.org/abs/2110.15314) [[code]](https://github.com/sanghviyashiitb/poisson-deblurring) [[video]](https://www.youtube.com/watch?v=bJHiUKzjaCI) [[webpage]](https://sanghviyashiitb.github.io/nb-deblur-webpage/) [[dataset]](https://aaaakshat.github.io/pldd/)
+[[webpage]](https://sanghviyashiitb.github.io/nb-deblur-webpage/) [[dataset]](https://aaaakshat.github.io/pldd/) <br>
+[[arxiv]](https://arxiv.org/abs/2110.15314) [[code]](https://github.com/sanghviyashiitb/poisson-deblurring) [[video]](https://www.youtube.com/watch?v=bJHiUKzjaCI)  
+[[slides]](https://drive.google.com/file/d/1jWE6lYoINvlLndliJ6LSxSfdWK8wyxko/view?usp=sharing)
 
 ### Inverse Scattering
 1. Yash Sanghvi, Yaswanth Kalepu, and Uday Khankhoje, **"Embedding Deep Learning in Inverse Scattering Problems"**, IEEE Transactions on Computational Imaging <br>
