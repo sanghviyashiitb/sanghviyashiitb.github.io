@@ -4,7 +4,7 @@ title: Selected Publications
 ---
 ### Deconvolution in Photon-Limited Scenes
 1. Yash Sanghvi, Zhiyuan Mao, Stanley H Chan, **"Structured Kernel Estimation for Photon-Limited Deconvolution"**, accepted at CVPR 2023 <br> [[arxiv]](https://arxiv.org/abs/2303.03472) [[code]](https://github.com/sanghviyashiitb/structured-kernel-cvpr23)    
-2. Yash Sanghvi, Abhiram Gnanasambandam, Zhiyuan Mao, Stanley H Chan, **"Photon Limited Blind Deconvolution Using Unsupervised Iterative Kernel Estimation"**, IEEE Transactions on Computational Imaging <br> [[arxiv]](https://arxiv.org/abs/2208.00451) [[code]](https://github.com/sanghviyashiitb/photon-limited-blind)    
+2. Yash Sanghvi, Abhiram Gnanasambandam, Zhiyuan Mao, Stanley H Chan, **"Photon Limited Blind Deconvolution Using Unsupervised Iterative Kernel Estimation"**, IEEE Transactions on Computational Imaging <br> [[link]](https://ieeexplore.ieee.org/document/9982288) [[arxiv]](https://arxiv.org/abs/2208.00451) [[code]](https://github.com/sanghviyashiitb/photon-limited-blind)    
 3. Yash Sanghvi, Abhiram Gnanasambandam, Stanley H Chan, **"Photon Limited Non-Blind Deblurring Using Algorithm Unrolling"**, IEEE Transactions on Computational Imaging <br> 
 [[webpage]](https://sanghviyashiitb.github.io/nb-deblur-webpage/) [[dataset]](https://aaaakshat.github.io/pldd/) <br>
 [[arxiv]](https://arxiv.org/abs/2110.15314) [[code]](https://github.com/sanghviyashiitb/poisson-deblurring) [[video]](https://www.youtube.com/watch?v=bJHiUKzjaCI)  [[slides]](https://drive.google.com/file/d/1jWE6lYoINvlLndliJ6LSxSfdWK8wyxko/view?usp=sharing)
