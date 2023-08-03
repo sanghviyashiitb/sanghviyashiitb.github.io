@@ -4,7 +4,7 @@ title: Yash Sanghvi
 ---
 ## Hi there, I'm Yash Sanghvi!
 ### Personal Webpage - Less than Frequently Updated
-I'm currently a graduate research assistant at the I2-Lab in Department of ECE, Purdue Univeristy, working under [Prof. Stanley Chan](https://engineering.purdue.edu/ChanGroup/stanleychan.html).  You can find my CV [here](/CV_YashSanghvi.pdf)
+I'm currently a graduate research assistant at the I2-Lab in Department of ECE, Purdue Univeristy, working under [Prof. Stanley Chan](https://engineering.purdue.edu/ChanGroup/stanleychan.html).  You can find the latest version of my resume [here](https://drive.google.com/file/d/1kj0slmvizofg6upzjI-HdDCufR1ob5Gf/view?usp=sharing)
 
 ### Bio
 I graduated from IIT Bombay with a dual degree in Electrical Engineering (B. Tech + M. Tech.) in 2018. Before joining Purdue, I was a project scientist at IIT Madras  - working under the guidance of [Prof. Uday K.](http://www.ee.iitm.ac.in/uday/) on the inverse scattering problem. My research interests include **computational imaging**, **inverse problems** and intersection of these fields with **deep learning**.
